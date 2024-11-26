@@ -1,0 +1,200 @@
+{
+  "eventos": [
+    {
+      "id": "3",
+      "nombre": "Exhibicion 1vs1 Lucha Libre",
+      "fecha": "01/11/2024",
+      "lugar": "Polideportivo Mike Tyson",
+      "descripcion": "Una pelea entre The Mask y Kane"
+    },
+    {
+      "id": "4",
+      "nombre": "Fecha 5 Torneo Galactico",
+      "fecha": "01/01/2025",
+      "lugar": "Multicancha 2",
+      "descripcion": "Quinta fecha del Torneo 3X3 basketball"
+    },
+    {
+      "id": "94b7",
+      "nombre": "Copa Basket",
+      "categoria": "Basketball",
+      "fecha": "2021-05-05T23:58:00",
+      "lugar": "Primer Gimnasio",
+      "descripcion": "Amistoso de basketball"
+    },
+    {
+      "id": "6000",
+      "nombre": "Basseball Separados",
+      "categoria": "Baseball",
+      "fecha": "2024-12-11T11:48:00",
+      "lugar": "Cancha Futbol",
+      "descripcion": "Practica de equipo"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "JuanFlores",
+      "email": "juansito@gmail.com",
+      "password": "12345678",
+      "rut": "20.336.935-5",
+      "isactive": "true"
+    },
+    {
+      "id": "2",
+      "username": "CamiloCotele",
+      "email": "camilol@gmail.com",
+      "password": "12345678",
+      "rut": "12.436.215-5",
+      "isactive": "true"
+    },
+    {
+      "id": "7fa4",
+      "username": "CamiloCorreas",
+      "email": "camilo@gmail.com",
+      "password": "12345678a",
+      "rut": "21.323.767-5",
+      "isactive": "true"
+    },
+    {
+      "id": "a237",
+      "username": "Ivan Rocco",
+      "email": "ivanrocco@gmail.com",
+      "password": "12345678a",
+      "rut": "20.992.391-2",
+      "isactive": true
+    },
+    {
+      "id": "df34",
+      "username": "Pablo Pinto",
+      "email": "pablo@gmail.com",
+      "password": "12345678a",
+      "rut": "20.202.202-6",
+      "isactive": true
+    }
+  ],
+  "comentarios": [
+    {
+      "opinion": "",
+      "id": "1c97"
+    }
+  ],
+  "usuarios_gestores": [
+    {
+      "id": "1",
+      "username": "Carlos",
+      "email": "carlos@gmail.com",
+      "password": "12345678a",
+      "rut": "209923912",
+      "isactive": "true"
+    },
+    {
+      "id": "c33e",
+      "username": "ElchicoTerry",
+      "email": "terry@gmail.com",
+      "password": "87654321a",
+      "rut": "20.202.202.2",
+      "isactive": true
+    },
+    {
+      "id": "c07b",
+      "username": "Fernando",
+      "email": "fernan@gmail.com",
+      "password": "12345678a",
+      "rut": "20.999.333.2",
+      "isactive": true
+    },
+    {
+      "id": "fc6a",
+      "username": "Constanza",
+      "email": "coni@gmail.com",
+      "password": "12345678a",
+      "rut": "11.369.358-9",
+      "isactive": true
+    }
+  ],
+  "lista-participantes": [
+    {
+      "username": "",
+      "rut": "",
+      "id": "af91"
+    },
+    {
+      "id": "634a",
+      "username": "CamiloCorreas",
+      "rut": "21.323.767-5"
+    },
+    {
+      "id": "05b8",
+      "username": "CamiloCorreas",
+      "rut": "21.323.767-5",
+      "ide": "3"
+    },
+    {
+      "id": "8002",
+      "username": "CamiloCorreas",
+      "rut": "21.323.767-5",
+      "ide": "94b7"
+    },
+    {
+      "id": "e754",
+      "username": "CamiloCorreas",
+      "rut": "21.323.767-5",
+      "ide": "94b7"
+    },
+    {
+      "id": "64c7",
+      "username": "CamiloCorreas",
+      "rut": "21.323.767-5",
+      "ide": "2"
+    },
+    {
+      "id": "de0f",
+      "username": "Ivan Rocco",
+      "rut": "20.992.391-2",
+      "ide": "2"
+    },
+    {
+      "id": "6260",
+      "username": "Ivan Rocco",
+      "rut": "20.992.391-2",
+      "ide": "3"
+    },
+    {
+      "id": "9fa0",
+      "username": "Ivan Rocco",
+      "rut": "20.992.391-2",
+      "ide": "4"
+    },
+    {
+      "id": "bca6",
+      "username": "Pablo Pinto",
+      "rut": "20.202.202-6",
+      "ide": "2"
+    },
+    {
+      "id": "928f",
+      "username": "Pablo Pinto",
+      "rut": "20.202.202-6",
+      "ide": "94b7"
+    },
+    {
+      "id": "3627",
+      "username": "Pablo Pinto",
+      "rut": "20.202.202-6",
+      "ide": "3"
+    },
+    {
+      "id": "1e90",
+      "username": "Pablo Pinto",
+      "rut": "20.202.202-6",
+      "ide": "4"
+    },
+    {
+      "id": "e25a",
+      "username": "CamiloCorreas",
+      "rut": "21.323.767-5",
+      "ide": "6000"
+    }
+  ]
+}
