@@ -1,0 +1,83 @@
+{
+  "eventos": [
+    {
+      "id": "2",
+      "nombre": "Amistoso Volleybal",
+      "fecha": "01/01/2025",
+      "lugar": "Multicancha 1",
+      "descripcion": "Partido Amistoso de practica. Hawks vs Eagles"
+    },
+    {
+      "id": "3",
+      "nombre": "Exhibicion 1vs1 Lucha Libre",
+      "fecha": "01/11/2024",
+      "lugar": "Polideportivo Mike Tyson",
+      "descripcion": "Una pelea entre The Mask y Kane"
+    },
+    {
+      "id": "4",
+      "nombre": "Fecha 5 Torneo Galactico",
+      "fecha": "01/01/2025",
+      "lugar": "Multicancha 2",
+      "descripcion": "Quinta fecha del Torneo 3X3 basketball"
+    },
+    {
+      "id": "95d0",
+      "nombre": "Copa2",
+      "categoria": "jurgol",
+      "fecha": "2024-12-27T13:50:00",
+      "lugar": "Estadio Monumental",
+      "descripcion": "Colo Colo vs U de chile"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "JuanFlores",
+      "email": "juansito@gmail.com",
+      "password": "12345678",
+      "rut": "20.336.935-5",
+      "isactive": "true"
+    },
+    {
+      "id": "2",
+      "username": "CamiloCotele",
+      "email": "camilol@gmail.com",
+      "password": "12345678",
+      "rut": "12.436.215-5",
+      "isactive": "true"
+    },
+    {
+      "id": "7fa4",
+      "username": "CamiloCorreas",
+      "email": "camilo@gmail.com",
+      "password": "12345678a",
+      "rut": "21.323.767-5",
+      "isactive": "true"
+    }
+  ],
+  "comentarios": [
+    {
+      "opinion": "",
+      "id": "1c97"
+    }
+  ],
+  "usuarios_gestores": [
+    {
+      "id": "1",
+      "username": "Carlos",
+      "email": "carlos@gmail.com",
+      "password": "12345678a",
+      "rut": "209923912",
+      "isactive": "true"
+    },
+    {
+      "id": "c33e",
+      "username": "ElchicoTerry",
+      "email": "terry@gmail.com",
+      "password": "87654321a",
+      "rut": "20.202.202.2",
+      "isactive": true
+    }
+  ]
+}
